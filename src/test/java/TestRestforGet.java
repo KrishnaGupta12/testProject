@@ -24,7 +24,6 @@ public class TestRestforGet {
                 .and()
                 .header("content-type", "application/json")
                 .header("allow", "GET, HEAD, OPTIONS");
-
     }
 
 }

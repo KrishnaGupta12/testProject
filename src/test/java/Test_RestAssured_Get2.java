@@ -8,7 +8,7 @@ public class Test_RestAssured_Get2 {
     @Test
     public void testGet()
     {
-        System.out.println("One More Example Here we will see test output on console");
+//        System.out.println("One More Example Here we will see test output on console");
 
         given()
                 .when()
